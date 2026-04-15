@@ -1,8 +1,8 @@
 import React from 'react';
-import Navbar from '../component/shard/navbar/Navbar';
-import { Outlet } from 'react-router';
-import Footer from '../component/shard/Footer/Footer';
+import Navbar from '../nav&foot/navbar';
 
+import { Outlet } from 'react-router';
+import Footer from '../nav&foot/Footer';
 
 const MainLaout = () => {
     return (
