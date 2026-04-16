@@ -3,8 +3,6 @@ import { ImStatsDots } from 'react-icons/im';
 import { IoHomeOutline } from 'react-icons/io5';
 import { RiTimeLine } from 'react-icons/ri';
 import { NavLink } from 'react-router';
-
-
 const Navbar = () => {
     const links = (
         <>

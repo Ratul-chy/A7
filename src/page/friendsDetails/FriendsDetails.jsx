@@ -38,11 +38,6 @@ const FriendsDetails = () => {
     toast.success(`Video call with ${expectedfriend?.name}`)
   }
 
-
-
-
-
-
   return (
     <div className="">
       <div className="bg-[#f8fafb] min-h-screen py-20">

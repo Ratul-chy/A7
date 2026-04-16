@@ -4,9 +4,6 @@ import { Link } from 'react-router';
 
 const Card = ({ friend }) => {
   const { name, picture, days_since_contact, status, tags } = friend;
-
-
-
   return (
     <div>   
       <Link to={`/friendsdetails/${friend.id}`} className="card w-full bg-white shadow-sm border border-gray-300 rounded-2xl">
@@ -33,7 +30,6 @@ const Card = ({ friend }) => {
               ))
             }
           </div>
-
 
           <div className="card-actions">
             <div className={`badge border-none text-white text-[10px] font-bold py-3.5 px-5 rounded-full uppercase tracking-wider 

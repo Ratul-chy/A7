@@ -63,9 +63,7 @@ pauseOnHover
 theme="light"
 transition={Bounce}
 />
-
   </FriendsContexprovider>
-
 
   </StrictMode>,
 )

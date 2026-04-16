@@ -9,9 +9,6 @@ const Timeline = () => {
   const [filter , setFilter]=useState("all")
   const [search, setSearch] = useState("");
  
-
-
-
   return (
     <div className="container mx-auto  " >
       
