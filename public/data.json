@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Naruto Uzumaki",
-    "picture": "https://ibb.co.com/Cs6RPT2L?q=80&w=400&h=400&auto=format&fit=crop",
+        "picture": "https://images.unsplash.com/vector-1745847439146-c0381f39e8c0?q=80&w=784&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "email": "naruto.uzumaki@example.com",
     "days_since_contact": 62,
     "status": "Almost Due",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "Mikasa Ackerman",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/9/131216.jpg",
+    "picture": "https://plus.unsplash.com/premium_vector-1742668947361-739780396fb6?q=80&w=1257&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "email": "mikasa.ackerman@example.com",
     "days_since_contact": 45,
     "status": "Overdue",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "Levi Ackerman",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/3/215593.jpg",
+    "picture": "https://imgs.search.brave.com/g6SNP7tK-3h3xkg3GRoMqirFh7ZhI6vEjffcH2MTWMM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmNicmltYWdl/cy5jb20vd29yZHBy/ZXNzL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIwLzEwL0FvVC1i/ZXN0LUxldmktZmln/aHRzLVRyb3N0LUNy/b3BwZWQuanBnP3E9/NTAmZml0PWNyb3Am/dz04MjUmZHByPTEu/NQ",
     "email": "levi.ackerman@example.com",
     "days_since_contact": 32,
     "status": "Overdue",
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "Monkey D. Luffy",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/10/163630.jpg",
+    "picture": "https://imgs.search.brave.com/37jwFx5T5ERYM3Hqzi6VmZ2aLAvhUl7yx6V-MkPzJAM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzNlLzg1/LzVkLzNlODU1ZDI4/ZTYxZjdhZDA3YjQ5/MzA2ZWJlMzgyNWMw/LmpwZw",
     "email": "monkey.luffy@example.com",
     "days_since_contact": 12,
     "status": "Overdue",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "name": "Goku",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/6/179159.jpg",
+    "picture": "https://imgs.search.brave.com/K8E5LkgoQzbhtvPDz4_3X7LF42YXOaR5fIMCfLeQ1Vo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/dGhlLW1pc3VuZGVy/c3Rvb2QtZ29rdS1h/LWRlZXAtZGl2ZS1p/bnRvLWhpcy10cnVl/LWNoYXJhY3Rlci12/MC12d2gwdXBvbWJi/M2YxLmpwZWc_d2lk/dGg9NjQwJmNyb3A9/c21hcnQmYXV0bz13/ZWJwJnM9OWUzNGVl/MjkyMzVhNDAwMzQ4/OWRkZTkwOGMzNDg5/NWIxMjYzZTk0Zg",
     "email": "goku@example.com",
     "days_since_contact": 32,
     "status": "Overdue",
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "name": "Light Yagami",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/5/179160.jpg",
+    "picture": "https://imgs.search.brave.com/zAuFIU4sof4p7ZZLdC4eQx372mo94qc7gEvs4JfZ4vc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci8yOTQv/OTY2L0hELXdhbGxw/YXBlci15YWdhbWkt/bGlnaHQtYW5pbWUt/YW5pbWUtYXJ0LWFu/aW1lLWRlYXRoLW5v/dGUtZGVhdGgtbm90/ZS1lZGl0cy1yeXV1/ay1zaGluaWdhbWkt/dGh1bWJuYWlsLmpw/Zw",
     "email": "light.yagami@example.com",
     "days_since_contact": 62,
     "status": "On-Track",
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "name": "Sailor Moon",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/9/103482.jpg",
+    "picture": "https://imgs.search.brave.com/35gsd3_O9hIAVNop4Fn1kF5rO7OjhTsj6Ak75YTNs7Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmNicmltYWdl/cy5jb20vd29yZHBy/ZXNzL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzA4L2N1c3Rv/bS1pbWFnZS1vZi11/c2FnaS1vbi1hLW1v/b24td2l0aC1sdW5h/LW5leHQtdG8taGVy/LWZyb20tc2FpbG9y/LW1vb24ucG5nP3E9/NDkmZml0PWNyb3Am/dz0zNjAmaD0yNDAm/ZHByPTI",
     "email": "sailor.moon@example.com",
     "days_since_contact": 10,
     "status": "On-Track",
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "name": "Ichigo Kurosaki",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/7/106556.jpg",
+    "picture": "https://imgs.search.brave.com/2XyZprzwIRLz4WfBSPzP37KQIEKwBwswP_meqjGVmQ0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvaWNo/aWdvLWt1cm9zYWtp/LXJlZC1uZXctYmxl/YWNoLWZocWV3NXF6/d2Zqdno3aXcuanBn",
     "email": "ichigo.kurosaki@example.com",
     "days_since_contact": 20,
     "status": "Almost Due",
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "name": "Edward Elric",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/5/179163.jpg",
+    "picture": "https://imgs.search.brave.com/OLJXLwox4DHhgOWN7dXUXG-JsThMZ0n7RKHFloTAzKw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMjc4/MDY4Ny5qcGc",
     "email": "edward.elric@example.com",
     "days_since_contact": 30,
     "status": "Almost Due",
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "name": "Nezuko Kamado",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/16/423251.jpg",
+    "picture": "https://imgs.search.brave.com/zirucrFgQBlh154h6oevlQIShKKEpPnDlGyfs64IiNY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9mdW5r/by5jb20vZHcvaW1h/Z2UvdjIvQkdUU19Q/UkQvb24vZGVtYW5k/d2FyZS5zdGF0aWMv/LS9TaXRlcy1mdW5r/by1tYXN0ZXItY2F0/YWxvZy9kZWZhdWx0/L2R3M2Q4MjhhN2Uv/aW1hZ2VzL2Z1bmtv/LzQ5MDEzLTEucG5n/P3N3PTM0NiZzaD0z/NDY",
     "email": "nezuko.kamado@example.com",
     "days_since_contact": 12,
     "status": "Overdue",
@@ -122,7 +122,7 @@
   {
     "id": 11,
     "name": "Itachi Uchiha",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/9/179164.jpg",
+    "picture": "https://imgs.search.brave.com/5OK8Y1HBoaLPAshQPT2queWjtTnMvC9RPTlbFw6zafY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEyNjcy/NjQzLnBuZw",
     "email": "itachi.uchiha@example.com",
     "days_since_contact": 82,
     "status": "Overdue",
@@ -134,7 +134,7 @@
   {
     "id": 12,
     "name": "Kakashi Hatake",
-    "picture": "https://wsrv.nl/?url=https://cdn.myanimelist.net/images/characters/16/179165.jpg",
+    "picture": "https://imgs.search.brave.com/UJ8E48lyuQHShgAoMArwJ9Lf_SDGtND-dDqymkjS9Zw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC8yLzQv/YS83MzI4ODgtMTg5/MngyNjIxLWlwaG9u/ZS1oZC1oYXRha2Ut/a2FrYXNoaS1iYWNr/Z3JvdW5kLmpwZw",
     "email": "kakashi.hatake@example.com",
     "days_since_contact": 72,
     "status": "On-Track",
