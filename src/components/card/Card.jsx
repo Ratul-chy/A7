@@ -36,8 +36,6 @@ const Card = ({ friend }) => {
             ${status === "Overdue" ? "bg-[#EF4444]" : ""}
             ${status === "On-Track" ? "bg-[#064E3B]" : ""}
             ${status === "Almost Due" ? "bg-[#F59E0B]" : ""}
-            
-            
             `}>
               {status}
             </div>

@@ -2,8 +2,6 @@
 import React, { useContext } from 'react';
 import { Legend, Pie, PieChart, Tooltip } from 'recharts';
 import { FriendsContext } from '../../context/friendsContext';
-
-
 const Stats = () => {
  const { callFriend, textFriend, videocallFriend } = useContext(FriendsContext);
  const noData = callFriend.length === 0 && textFriend.length === 0 && videocallFriend.length === 0
@@ -52,8 +50,6 @@ const Stats = () => {
         
   </div>
 }
-    
-    
         </div>
     );
 };

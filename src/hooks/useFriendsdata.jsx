@@ -11,8 +11,6 @@ const useFriendsdata = () => {
             const data = await res.json()
             setfriends(data)
             setloading(false)
-
-         
         }
         fetchData()
 

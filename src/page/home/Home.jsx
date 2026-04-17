@@ -6,10 +6,6 @@ import { BeatLoader } from 'react-spinners';
 
 const Home = () => {
   const { friends, loading } = useFriendsdata();
-
-
-
-
   return (
     <div className=" ">
       <div  >

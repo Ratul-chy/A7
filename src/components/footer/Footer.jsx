@@ -2,23 +2,16 @@ import React from 'react';
 import { FaInstagram, FaFacebookF } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
-
 const Footer = () => {
   return (
     <footer className="bg-[#1D4734] text-white py-8 -mb-8 px-4  ">
       <div className="flex flex-col items-center text-center max-w-4xl mx-auto">
-        
-
         <h1 className="text-3xl md:text-5xl font-bold mb-3 tracking-tight">
           KeenKeeper
         </h1>
-        
-
         <p className="max-w-md md:max-w-xl text-xs md:text-base text-gray-200 mb-6 opacity-80 leading-snug">
           Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
         </p>
-
-     
         <div className="flex flex-col items-center gap-3 mb-8">
           <span className="text-sm md:text-lg font-medium">Social Links</span>
           <div className="flex gap-3">

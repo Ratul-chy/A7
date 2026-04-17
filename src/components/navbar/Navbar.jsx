@@ -30,7 +30,6 @@ const Navbar = () => {
                         }`
                     }
                 >
-
                     <span className='flex items-center gap-2'><RiTimeLine />Timeline</span>
                 </NavLink>
             </li>
@@ -72,8 +71,6 @@ const Navbar = () => {
                         </span>
                     </div>
                 </div>
-
-
                 <div className="navbar-end hidden lg:flex">
                     <ul className="flex items-center gap-4 list-none  ">
                         {links}

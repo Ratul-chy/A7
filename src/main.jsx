@@ -12,9 +12,6 @@ import FriendsContexprovider from './context/friendsContexprovider';
 import { Bounce, ToastContainer } from 'react-toastify';
 import Error from './page/error/Error';
 
-
-
-
 const router = createBrowserRouter([
   {
     path: "/",
@@ -36,9 +33,6 @@ const router = createBrowserRouter([
       path:"/friendsdetails/:id",
       Component:FriendsDetails,
     },
-   
-  
-
 
   ],
   errorElement:<Error></Error>
